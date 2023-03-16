@@ -1,0 +1,4 @@
+This just works with https://github.com/lhb-cafe/docker-headscale
+
+For now, the only thing you need to do is to add your crt/key for https
+
