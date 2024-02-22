@@ -1,4 +1,5 @@
-This just works with https://github.com/lhb-cafe/docker-headscale
+1. Add your crt/key named after your domain name, such as example.com.crt, example.com.key
+2. On host side, a tailscale instance needs to be running and connected to your server
 
-For now, the only thing you need to do is to add your crt/key for https
+I am not using reverse proxy because I want to use the same domain name for both headscale server and the derper.
 
